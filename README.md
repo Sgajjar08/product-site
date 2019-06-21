@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Technical stack
+## Technical stack
 
 Front-end: React.js, ploty.js
 Back-end: Node.js, express.js, mongoose
